@@ -163,7 +163,7 @@ body {
 }
 
 .header__banner {
-  background: url(/images/header-bg.png);
+  background: url(./images/header-bg.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
